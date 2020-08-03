@@ -3,9 +3,7 @@
 # Hey, I'm Alex! 👨🏻‍💻
 I'm a fullstack engineer with a passion for using technology for good. 'Good' can imply a lot of things. To me it simply means that at the end of the day the people who use the things I build are better off. From helping rebuild a website for the anti-recidivism non-profit [Unloop](https://un-loop.org) to making a silly [D&D manager](https://github.com/AlexBieg/dnd-manager) to play games with my friends, I try to make sure everything I build has a positive impact.
 
-Lately I've been interested in React, Electron, and GraphQL
-
-If you want to find out more about me connect with me on [LinkedIn](https://www.linkedin.com/in/AlexBieg)
+If you want to find out more about me I'm on [LinkedIn](https://www.linkedin.com/in/AlexBieg)
 
 
 <!--
