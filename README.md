@@ -1,4 +1,12 @@
-### Hi there 👋
+<img align="right" src="https://github.com/kmt901/kmt901/blob/master/kaya_illustration.PNG" alt="Illustration of Kaya speaking at a conference with coding bubbles in background" width=350px height=465px/>
+
+# Hey, I'm Alex! 👨🏻‍💻
+I'm a fullstack engineer with a passion for using technology for good. 'Good' can imply a lot of things. To me it simply means that at the end of the day the people who use the things I build are better off. From helping rebuild a website for the anti-recidivism non-profit [Unloop](https://un-loop.org) to making a silly [D&D manager](https://github.com/AlexBieg/dnd-manager) to play games with my friends, I try to make sure everything I build has a positive impact.
+
+Lately I've been interested in React, Electron, and GraphQL
+
+If you want to find out more about me connect with me on [LinkedIn](https://www.linkedin.com/in/AlexBieg)
+
 
 <!--
 **AlexBieg/AlexBieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
