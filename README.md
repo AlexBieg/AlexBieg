@@ -1,22 +1,28 @@
-<img align="right" src="https://github.com/AlexBieg/AlexBieg/blob/master/me-spain.jpg" alt="me in spain" width=350px height=465px/>
-
 # Hey, I'm Alex! 👨🏻‍💻
-I'm a fullstack engineer with a passion for using technology for good. 'Good' can imply a lot of things. To me it simply means that at the end of the day the people who use the things I build are better off. From helping rebuild a website for the anti-recidivism non-profit [Unloop](https://un-loop.org) to making a silly [D&D manager](https://github.com/AlexBieg/dnd-manager) to play games with my friends, I try to make sure everything I build has a positive impact.
+I spend most of my days yelling at webpack for crashing whenever I try building it only to discover that `cheveron` is not the correct spelling of everyones favorite little arrow icon. When I'm not dealing with that I am also a fullstack engineer. 
 
-If you want to find out more about me I'm on [LinkedIn](https://www.linkedin.com/in/AlexBieg)
+If you want to find out more about me I'm on:
 
+[<img src="https://img.shields.io/static/v1?logo=LinkedIn&message=LinkedIn&color=545454&label=&logoColor=03adfc" />](https://www.linkedin.com/in/AlexBieg) 
 
-<!--
-**AlexBieg/AlexBieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I also know some things
+**Languages**
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/static/v1?logo=Python&message=Python&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=Javascript&message=Javascript&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=Java&message=Java&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=c-sharp&message=C%23&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=node.js&message=Node.js&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=go&message=GoLang&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=php&message=PHP&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=c%2B%2B&message=C%2B%2B&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=lua&message=Lua&color=545454&label=&logoColor=03adfc" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Web Technologies**
+
+<img src="https://img.shields.io/static/v1?logo=react&message=React&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=redux&message=Redux&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=ember.js&message=Ember&color=545454&label=&logoColor=03adfc" />
+<img src="https://img.shields.io/static/v1?logo=angular&message=Angular&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=css3&message=CSS3&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=sass&message=Sass&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=html5&message=HTML5&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=electron&message=Electron&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=.Net&message=.Net&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=flask&message=Flask&color=545454&label=&logoColor=03adfc" />
+
+**Data Management**
+
+<img src="https://img.shields.io/static/v1?logo=MySql&message=MySql&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=MongoDB&message=MongoDB&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=Apache-Solr&message=Solr&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=Amazon-AWS&message=S3&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=Amazon-AWS&message=SQS&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=GraphQL&message=GraphQL&color=545454&label=&logoColor=03adfc" />
+
+**Development Technologies**
+
+<img src="https://img.shields.io/static/v1?logo=git&message=Git&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=NPM&message=NPM&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=WebPack&message=WebPack&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=Babel&message=Babel&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=Jest&message=Jest&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=Docker&message=Docker&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=Linux&message=Linux&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=Jenkins&message=Jenkins&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?logo=gnu-bash&message=Bash&color=545454&label=&logoColor=03adfc" />
+
+**Soft Skills**
+
+<img src="https://img.shields.io/static/v1?message=Agile&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?message=Pair%20Programming&color=545454&label=&logoColor=03adfc" /> <img src="https://img.shields.io/static/v1?message=UI/UX&color=545454&label=&logoColor=03adfc" />
