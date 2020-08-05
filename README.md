@@ -1,3 +1,5 @@
+<img src="https://github.com/AlexBieg/AlexBieg/blob/master/hello.gif" width="100%"/>
+
 # Hey, I'm Alex! 👨🏻‍💻
 I spend most of my days yelling at webpack for crashing whenever I try building it only to discover that `cheveron` is not the correct spelling of everyones favorite little arrow icon. When I'm not dealing with that I am also a fullstack engineer. 
 
