@@ -1,11 +1,15 @@
 <img src="https://github.com/AlexBieg/AlexBieg/blob/master/hello.gif" width="100%"/>
 
 # Hey, I'm Alex! 👨🏻‍💻
-I spend most of my days yelling at webpack for crashing whenever I try building it only to discover that `cheveron` is not the correct spelling of everyones favorite little arrow icon. When I'm not dealing with that I am also a fullstack engineer. 
+I'm a full stack engineer with a focus on the frontend who likes to build cool stuff. My current pet project is making a D&D manager to help me run games with my friends. I endevour to work on projects that I believe will make people's lives a little bit better.
 
-If you want to find out more about me I'm on:
+> With great power comes great responsibility
 
-[<img src="https://img.shields.io/static/v1?logo=LinkedIn&message=LinkedIn&color=545454&label=&logoColor=03adfc" />](https://www.linkedin.com/in/AlexBieg) 
+-Uncle Ben
+
+Software engineers have the ability to actively change the world. That's a lot of power. Let's use it wisely.
+
+If you want to find out more about me I'm on [LinkedIn](https://www.linkedin.com/in/AlexBieg) 
 
 ## I also know some things
 **Languages**
