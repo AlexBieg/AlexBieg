@@ -1,15 +1,15 @@
 <img src="https://github.com/AlexBieg/AlexBieg/blob/master/hello.gif" width="100%"/>
 
 # Hey, I'm Alex! 👨🏻‍💻
-I'm a full stack engineer with a focus on the frontend who likes to build cool stuff. My current pet project is making a D&D manager to help me run games with my friends. I endevour to work on projects that I believe will make people's lives a little bit better.
+I'm a full-stack engineer focusing on the backend who likes to build cool stuff. I'm particularly passionate about tooling that can help people accomplish their goals. I endeavor to only work on projects that positively impact the world.
 
 > With great power comes great responsibility
 
 -Uncle Ben
 
-Software engineers have the ability to actively change the world. That's a lot of power. Let's use it wisely.
+Software engineers can actively change the world. That's a lot of power. Let's use it wisely.
 
-If you want to find out more about me I'm on [LinkedIn](https://www.linkedin.com/in/AlexBieg) 
+If you want to find out more about me, I'm on [LinkedIn](https://www.linkedin.com/in/AlexBieg) 
 
 ## I also know some things
 **Languages**
